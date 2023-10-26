@@ -1,0 +1,9 @@
+项目：锤子商城复刻
+
+项目结构：分为上中下结构
+上层：第一行为一个列表（在线商城，坚果R2，smartisan TNT go，坚果TNT工作站，smartisan OS，欢喜云，论坛，开发者支持，荣誉与奖项）
+
+路由分析：
+路由组件：home首页路由组件，search搜索路由组件，login登录路由组件，register注册路由组件
+
+非路由组件：header，footer，但是footer在登录和注册页面不显示（v-show）
